@@ -1,7 +1,7 @@
 all: main
 
 main: main.c
-	gcc main.c -o main
+	gcc recusistemes.c -o recusistemes
 
 run: main
 	./main
